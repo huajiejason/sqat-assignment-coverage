@@ -1,0 +1,12 @@
+{
+  "name": "@codecov/example-javascript",
+  "version": "0.0.1",
+  "description": "Javascript",
+  "main": "signup.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
